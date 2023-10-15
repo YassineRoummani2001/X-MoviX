@@ -2,11 +2,11 @@
 # X-MoviX
 X-MoviX app created with 
 
-Vite
-
-[
+Vite,
 React,
 react-router,
 Redux,
-Sass
-]
+Sass,
+Css,
+HTML,
+Jsx
