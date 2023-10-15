@@ -1,6 +1,6 @@
 
-# Movix
-Movie app created with 
+# X-MoviX
+X-MoviX app created with 
 
 Vite
 
