@@ -1,4 +1,4 @@
-![Alt text](‪C:\Users\HP\OneDrive\Pictures\Captures d’écran\X-Movix.png?raw=true "X-MoviX")
+![plot](‪C:\Users\HP\OneDrive\Pictures\Captures d’écran\X-Movix.png)
 
 # X-MoviX
 X-MoviX app created with 
